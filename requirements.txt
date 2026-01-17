@@ -1,0 +1,8 @@
+# Database
+mariadb>=1.1.0
+
+# Password hashing
+bcrypt>=4.0.0
+
+# Configuration
+configparser>=5.0.0
